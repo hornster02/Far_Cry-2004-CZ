@@ -12,13 +12,13 @@ Chyby
 <br/>
 -pokud hra nejde spustit (kvůli kvalitě světel na maximum), tak v souboru ```system.cfg``` změnit parametr ```r_ShadersPrecache = "0"```
 
--pro lepší grafiku můžete použít tento soubor (zbytečné grafické chyby - hlavně postav - ale zřejmě zůstávají - souvisejí i s rozlišením/poměrem stran - 1080p 16:9/21:9 horší  / 1080p 4:3 dobré). Hru je třeba spustit s parametrem ```-devmode``` a při načtení mapy vždy stisknout ```F11``` (vyšší nastavení) nebo ```F10``` (nižší nastavení)
+-pro lepší grafiku je možné použít tento soubor (zbytečné grafické chyby - hlavně postav - ale zřejmě zůstávají - souvisejí i s rozlišením/poměrem stran - 1080p 16:9/21:9 horší  / 1080p 4:3 dobré). Hru je třeba spustit s parametrem ```-devmode``` a při načtení mapy vždy stisknout ```F11``` (vyšší nastavení) nebo ```F10``` (nižší nastavení)
 <br/>
 https://github.com/hornster02/Far_Cry-2004-CZ/raw/main/ultra.rar
 
--přechod mezi úrovněmi může rozbít grafiku = restart hry mi vždy pomohl
+-přechod mezi úrovněmi může rozbít grafiku = restart hry může pomoci
 
-Toto je minimálně třetí verze CZ která se dá na internetu sehnat. Výhoda té mojí je v malé velikosti souboru
+Další verze CZ
 <br/>
 CZ + videa = 254+518=772MB
 http://far-cry.cz/kompletni-cestina-far-cry-1-na-64bit-windows/
