@@ -1,6 +1,6 @@
 UBISOFT CONNECT (2024-03)
-<br/>
-Včetně CZ dabingu + videa. Velikost 254MB https://drive.google.com/drive/folders/1a9M8VwZX7XOJV0q7eSa_MWwqhk7i8uYt
+
+Velikost 254MB https://drive.google.com/drive/folders/1a9M8VwZX7XOJV0q7eSa_MWwqhk7i8uYt
 
 Postup
 <br/>
